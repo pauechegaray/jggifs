@@ -1,0 +1,84 @@
+[
+    {
+        "category": "bien",
+        "path": "bien/sk8r-girl.gif",
+        "tags": [
+            "bien",
+            "gif",
+            "girl",
+            "sk8r"
+        ],
+        "title": "sk8r-girl.gif"
+    },
+    {
+        "category": "bien",
+        "path": "bien/shufflin-robot.gif",
+        "tags": [
+            "bien",
+            "gif",
+	    "shufflin",
+	    "robot"
+        ],
+        "title": "shufflin-robot.gif"
+    },
+    {
+        "category": "bboy",
+        "path": "bboy/bboy-bear.gif",
+        "tags": [
+            "bboy",
+            "bear",
+            "gif"
+        ],
+        "title": "bboy-bear.gif"
+    },
+    {
+        "category": "bboy",
+        "path": "bboy/camouflage-bboy.gif",
+        "tags": [
+            "bboy",
+            "camouflage",
+            "gif"
+        ],
+        "title": "camouflage-bboy.gif"
+    },
+    {
+        "category": "fail",
+        "path": "fail/cat-fail.gif",
+        "tags": [
+            "cat",
+            "fail",
+            "gif"
+        ],
+        "title": "cat-fail.gif"
+    },
+    {
+        "category": "fail",
+        "path": "fail/ferret-fail.gif",
+        "tags": [
+            "fail",
+            "ferret",
+            "gif"
+        ],
+        "title": "ferret-fail.gif"
+    },
+    {
+        "category": "cutecat",
+        "path": "cutecat/cutecat1.gif",
+        "tags": [
+            "cute",
+            "cat",
+            "gif"
+        ],
+        "title": "cutecat1.gif"
+    },
+    {
+        "category": "cutecat",
+        "path": "cutecat/cutecat2.gif",
+        "tags": [
+            "cute",
+            "cat",
+            "gif"
+        ],
+        "title": "cutecat2.gif"
+    }
+]
